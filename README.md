@@ -43,4 +43,4 @@ This project focuses on data cleaning, analysis, and visualization. Possible ext
 ## How to run
 1. Clone the repo
 2. `pip install -r requirements.txt`
-3. Open `notebooks/car_analysis.ipynb`
+3. Open `notebooks/Car analysis project.ipynb`
