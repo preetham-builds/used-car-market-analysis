@@ -4,7 +4,7 @@ An exploratory data analysis of the used car market, uncovering pricing trends, 
 
 ## Dataset
 Source: CarDekho Used Car Dataset
-https://www.kaggle.com/datasets/manishkr1754/cardekho-used-car-data
+(https://www.kaggle.com/datasets/manishkr1754/cardekho-used-car-data)
 
 15,411 cars, 14 columns: brand, model, vehicle age, km driven, fuel type, transmission, mileage, engine, max power, seats, and selling price.
 
