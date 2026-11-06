@@ -1,6 +1,6 @@
 # Used Car Market Analysis (India)
 
-Analyzing 15,000+ used cars to find what drives resale price.
+An exploratory data analysis of the used car market, uncovering pricing trends, depreciation patterns, brand-wise performance, and key factors influencing resale value using Python.
 
 ## Dataset
 Source: CarDekho Used Car Dataset
